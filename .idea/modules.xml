@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java102.iml" filepath="$PROJECT_DIR$/Java102.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiThreadsAndConcurrency/MultiThreadsAndConcurrency.iml" filepath="$PROJECT_DIR$/MultiThreadsAndConcurrency/MultiThreadsAndConcurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/OtherTopics/OtherTopics.iml" filepath="$PROJECT_DIR$/OtherTopics/OtherTopics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatikaClone/PatikaClone.iml" filepath="$PROJECT_DIR$/PatikaClone/PatikaClone.iml" />
     </modules>
   </component>
 </project>
