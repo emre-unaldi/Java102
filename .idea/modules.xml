@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccessModifiersClassObjectVariablesMethod/AccessModifiersClassObjectVariablesMethod.iml" filepath="$PROJECT_DIR$/AccessModifiersClassObjectVariablesMethod/AccessModifiersClassObjectVariablesMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdventureGame/AdventureGame.iml" filepath="$PROJECT_DIR$/AdventureGame/AdventureGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionAndMapInterface/CollectionAndMapInterface.iml" filepath="$PROJECT_DIR$/CollectionAndMapInterface/CollectionAndMapInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutputOperations/InputOutputOperations.iml" filepath="$PROJECT_DIR$/InputOutputOperations/InputOutputOperations.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java102.iml" filepath="$PROJECT_DIR$/Java102.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiThreadsAndConcurrency/MultiThreadsAndConcurrency.iml" filepath="$PROJECT_DIR$/MultiThreadsAndConcurrency/MultiThreadsAndConcurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedAndInnerClasses/NestedAndInnerClasses.iml" filepath="$PROJECT_DIR$/NestedAndInnerClasses/NestedAndInnerClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPAndInterface/OOPAndInterface.iml" filepath="$PROJECT_DIR$/OOPAndInterface/OOPAndInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/OtherTopics/OtherTopics.iml" filepath="$PROJECT_DIR$/OtherTopics/OtherTopics.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatikaClone/PatikaClone.iml" filepath="$PROJECT_DIR$/PatikaClone/PatikaClone.iml" />
     </modules>
