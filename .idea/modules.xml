@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CollectionAndMapInterface/CollectionAndMapInterface.iml" filepath="$PROJECT_DIR$/CollectionAndMapInterface/CollectionAndMapInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputOutputOperations/InputOutputOperations.iml" filepath="$PROJECT_DIR$/InputOutputOperations/InputOutputOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java102.iml" filepath="$PROJECT_DIR$/Java102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreadsAndConcurrency/MultiThreadsAndConcurrency.iml" filepath="$PROJECT_DIR$/MultiThreadsAndConcurrency/MultiThreadsAndConcurrency.iml" />
     </modules>
   </component>
 </project>
