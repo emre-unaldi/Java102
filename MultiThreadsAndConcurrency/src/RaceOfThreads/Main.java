@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
         ArrayList<Integer> numberList = new ArrayList<>();
-        ArrayList<Integer> oddNumberList = new ArrayList();
+        ArrayList<Integer> oddNumberList = new ArrayList<>();
         ArrayList<Integer> evenNumberList = new ArrayList<>();
         ArrayList<Thread> threads = new ArrayList<>();
 
